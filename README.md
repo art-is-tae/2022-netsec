@@ -28,4 +28,5 @@ AndroidManifest.xml  파일에  Webview를  사용할  수  있게  <uses-permis
 1) Webview의 동작을 제한하는 코드 추가 
 1) 필요하지 않는 API 제한 
 1) JavaScript를 사용하지 않게 하는 setJavaScriptEnabled(false) 코드 추가 
-Network Security 2022 Spring                         4                                           
+
+Network Security 2022 Spring                                      
